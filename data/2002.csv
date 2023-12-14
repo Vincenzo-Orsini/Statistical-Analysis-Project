@@ -1,0 +1,2 @@
+#EventID,Time,Latitude,Longitude,Depth/km,MagType,Magnitude,MagErr,Area,Type,Level
+28386,2002/12/25 06:35:59.16,"408,427","141,608",2.00,D,1.0,0.3,flegrei,earthquake,Bollettino

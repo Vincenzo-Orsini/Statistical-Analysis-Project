@@ -1,0 +1,2 @@
+#EventID,Time,Latitude,Longitude,Depth/km,MagType,Magnitude,MagErr,Area,Type,Level
+"28391,2004/06/07 14:17:1.36,""408,258"",""141,477"",2.17,D,0.2,0.3,flegrei,earthquake,Bollettino"

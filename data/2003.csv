@@ -1,0 +1,4 @@
+#EventID,Time,Latitude,Longitude,Depth/km,MagType,Magnitude,MagErr,Area,Type,Level
+28385,2003/02/18 15:32:23.20,"408,330","141,790",1.40,D,1.7,0.3,flegrei,earthquake,Bollettino
+28384,2003/03/02 06:58:11.27,"408,252","141,462",1.87,D,0.9,0.3,flegrei,earthquake,Bollettino
+28383,2003/11/26 17:13:26.29,"408,172","141,897",0.85,D,1.4,0.3,flegrei,earthquake,Bollettino
